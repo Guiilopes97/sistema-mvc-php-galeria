@@ -1,0 +1,64 @@
+# Arquivos de configuração local
+config/local.php
+.env
+.env.local
+.env.production
+
+# Logs
+*.log
+logs/
+error.log
+access.log
+
+# Arquivos temporários
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Cache
+cache/
+*.cache
+
+# Uploads (opcional - descomente se não quiser versionar)
+# public/uploads/
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Composer
+vendor/
+composer.lock
+
+# Node.js (se usar build tools)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Backup files
+*.bak
+*.backup
+*.sql.bak
+
+# Arquivos de configuração do servidor
+.htaccess.local
+nginx.conf.local
+apache.conf.local
+
+# Arquivos de teste
+test_uploads/
+test_images/
+
+# Arquivos de desenvolvimento
+debug.log
+php_errors.log
