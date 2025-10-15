@@ -319,7 +319,7 @@ Este projeto está licenciado sob a **MIT License** - veja o arquivo [LICENSE](L
 
 ## 👨‍💻 Autor
 
-**Seu Nome**
+**Guilherme Lopes de Oliveira**
 - GitHub: [@Guiilopes97](https://github.com/Guiilopes97)
 - LinkedIn: [Guilherme Lopes de Oliveira](https://www.linkedin.com/in/guilherme-lopes-de-oliveira/)
 - Email: glopes.tech@gmail.com
